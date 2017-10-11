@@ -1,0 +1,10 @@
+{
+  "title": "WebSocket chat server",
+  "main": "chat-server.js",
+  "dependencies": {
+    "websocket": "^1.0.22"
+  },
+  "scripts": {
+    "start": "node ./chat-server.js"
+  }
+}

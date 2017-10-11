@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.blackorwhite" version="0.0.1">
+  <name>Blackorwhite</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="quoniamy@gmail.com">
+    quoniammm
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>

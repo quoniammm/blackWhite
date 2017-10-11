@@ -1,0 +1,12 @@
+{
+  "title": "Hello, World!",
+  "description": "Tabris.js - Hello, World!",
+  "category": "Small Apps",
+  "main": "hello.js",
+  "scripts": {
+    "start": "tabris serve"
+  },
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}

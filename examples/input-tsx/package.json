@@ -1,0 +1,14 @@
+{
+  "main": "input.js",
+  "scripts": {
+    "start": "npm run build && npm run serve",
+    "build": "tsc -p .",
+    "serve": "tabris serve"
+  },
+  "dependencies": {
+    "tabris": "^2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.3.3"
+  }
+}
